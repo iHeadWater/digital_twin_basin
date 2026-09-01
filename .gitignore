@@ -1,0 +1,49 @@
+# ========== 课程隐私与数据红线(勿动)==========
+# 课件 PPT 永不进仓库
+*.pptx
+*.ppt
+# 下载的数据产物不进仓库(见 data/README.md)
+data/downloads/
+
+# ========== Python ==========
+__pycache__/
+*.py[cod]
+*.so
+build/
+dist/
+*.egg-info/
+*.egg
+
+# 测试与覆盖率
+htmlcov/
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+.pytest_cache/
+coverage.xml
+.hypothesis/
+
+# Jupyter
+.ipynb_checkpoints
+
+# 环境与密钥
+.env
+.venv
+env/
+venv/
+ENV/
+
+# 工具缓存
+.mypy_cache/
+.dmypy.json
+.pyre/
+.ruff_cache/
+
+# IDE
+.vscode/
+.idea/
+
+# 演示运行产物(图表/动画临时输出;兜底展示图放 materials/ 并提交)
+results/
