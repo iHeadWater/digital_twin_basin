@@ -1,5 +1,7 @@
 # OpenMAIC 工作流说明
 
+> ⚠️ 教师向文档:本文件是课程素材(OpenMAIC)的**生产规范**,面向教师备课,学生可忽略。
+> 学生想动手学 OpenMAIC,请走[配套实操教程](../tutorials/openmaic-dsh-tutorial.md)。
 > TODO(教师):待整理。
 
 需要记录的内容:
