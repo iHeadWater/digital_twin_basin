@@ -47,3 +47,7 @@ ENV/
 
 # 演示运行产物(图表/动画临时输出;兜底展示图放 materials/ 并提交)
 results/
+
+# 实操教程(lab)运行产物:学生生成的样例数据与图片不提交
+**/outputs/
+**/data/rainflow_sample.csv
