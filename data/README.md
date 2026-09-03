@@ -5,13 +5,13 @@
 
 ## 公开数据源清单
 
-| 数据源 | 内容 | 服务的章节 | 获取方式 | 条款要点 |
+| 数据源 | 内容 | 服务用途(按课程主题) | 获取方式 | 条款要点 |
 |---|---|---|---|---|
-| [CAMELS](https://camels.dartmouth.edu/) | 美国 671 个流域:气象强迫 + 逐日径流 + 流域属性 | ch02 模型、ch05 案例 | 官方站点打包下载 | 公开科研数据,使用需引用 |
-| [ERA5 / ERA5-Land](https://cds.climate.copernicus.eu/) | 再分析气象强迫(降水、气温等) | ch02、ch03 | Copernicus CDS,需注册 | Copernicus 许可 |
-| DEM(SRTM / Copernicus) | 数字高程 | ch03、ch05 | [OpenTopography](https://opentopography.org/) / USGS Earth Explorer | 公开 |
-| [GPM IMERG](https://disc.gsfc.nasa.gov/) | 卫星遥感降水 | ch04 监测 | NASA GES DISC,需注册 | NASA 数据政策 |
-| [GRDC](https://grdc.bafg.de/) | 全球河流径流观测 | ch04、ch05 | 官方站点申请 | 公开,需引用 |
+| [CAMELS](https://camels.dartmouth.edu/) | 美国 671 个流域:气象强迫 + 逐日径流 + 流域属性 | 深度学习水文模型(第 3 讲)、贯穿案例(筹备中) | 官方站点打包下载 | 公开科研数据,使用需引用 |
+| [ERA5 / ERA5-Land](https://cds.climate.copernicus.eu/) | 再分析气象强迫(降水、气温等) | 深度学习水文模型(第 3 讲)、流域数据组织(筹备中) | Copernicus CDS,需注册 | Copernicus 许可 |
+| DEM(SRTM / Copernicus) | 数字高程 | 数字底板(筹备中)、贯穿案例(筹备中) | [OpenTopography](https://opentopography.org/) / USGS Earth Explorer | 公开 |
+| [GPM IMERG](https://disc.gsfc.nasa.gov/) | 卫星遥感降水 | 天空地监测(筹备中) | NASA GES DISC,需注册 | NASA 数据政策 |
+| [GRDC](https://grdc.bafg.de/) | 全球河流径流观测 | 天空地监测(筹备中)、贯穿案例(筹备中) | 官方站点申请 | 公开,需引用 |
 
 > TODO(教师):随各章 demos 落地,补充精确数据版本、对应下载脚本名与标准引用格式(BibTeX)。
 
