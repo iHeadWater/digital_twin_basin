@@ -20,6 +20,14 @@
 
 > 本讲是承上启下的概念课;深度学习模型如何从数据里学、怎么跑起来,是[第 3 讲](../03-深度学习水文模型/)的内容,别在这里展开。
 
+## 配套实操(学生动手)
+
+本讲概念为主,配一篇**完整动手教程**:把「大模型 → 多智能体 → 真实产出」落一次地。
+
+- [从配好一个大模型,到让你的 Agent 生成一节课](tutorials/openmaic-dsh-tutorial.md) —— npm 起步 → DSH 上手 → 源码装 OpenMAIC → 用 dsh-openmaic 插件让 Agent 生成一节水文课件。成品可播放 / 可导出 .pptx。
+
+> 它与 [materials/openmaic-workflow.md](materials/openmaic-workflow.md) 的关系:教程=学生动手学 OpenMAIC;workflow.md=教师把产出收进各讲次 materials/ 的规范。
+
 ## demos/
 
 本讲以讲清概念与对比为主,暂不需要重代码演示。若课堂要展示「物理 vs AI」的直观对比,代码放 `demos/`,规划:
