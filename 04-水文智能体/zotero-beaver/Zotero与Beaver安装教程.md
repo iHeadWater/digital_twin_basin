@@ -73,7 +73,7 @@ Beaver 是一款 Zotero 插件。根据 [Beaver 官方入门文档](https://www.
 ### 1. 注册并下载 Beaver
 
 1. 打开 [Beaver 注册页面](https://beaverapp.ai/join)创建账号；
-2. 登录后，从 Beaver 官网账户页面下载插件；![alt text](image-2.png)
+2. 登录后，从 Beaver 官网账户页面下载插件；![alt text](image-1.png)
 3. 也可以前往 [Beaver 官方 GitHub 仓库](https://github.com/jlegewie/beaver-zotero)查看项目和下载信息；
 4. 下载后的插件文件扩展名应为 `.xpi`。
 
@@ -82,17 +82,17 @@ Beaver 是一款 Zotero 插件。根据 [Beaver 官方入门文档](https://www.
 ### 2. 把 Beaver 安装到 Zotero
 
 1. 打开 Zotero；
-2. 点击菜单栏中的“工具”，进入“插件”；![alt text](image-4.png)
+2. 点击菜单栏中的“工具”，进入“插件”；![alt text](image-2.png)
 3. 点击插件窗口右上角的齿轮按钮；
 4. 选择“从文件安装插件”（如果找不到，请看[找不到“从文件安装插件”](#找不到从文件安装插件)）；
-5. 找到刚才下载的 Beaver `.xpi` 文件；![alt text](image-6.png)
+5. 找到刚才下载的 Beaver `.xpi` 文件；![alt text](image-4.png)
 6. 确认安装，并按提示重启 Zotero。
 
 你也可以把 `.xpi` 文件直接拖进 Zotero 的插件窗口。Zotero 官方的[插件安装说明](https://www.zotero.org/support/plugins)同样推荐通过 `.xpi` 文件安装。
 
 ### 3. 打开 Beaver
 
-安装成功后，可以点击 Zotero 右上角的魔法棒图标打开 Beaver,![alt text](image-7.png)也可以使用快捷键：
+安装成功后，可以点击 Zotero 右上角的魔法棒图标打开 Beaver,![alt text](image-5.png)也可以使用快捷键：
 
 - macOS：`Command + J`
 - Windows / Linux：`Ctrl + J`
@@ -105,7 +105,7 @@ Beaver 是一款 Zotero 插件。根据 [Beaver 官方入门文档](https://www.
 
 先确认你打开的是 **Zotero 桌面版**，而不是浏览器中的 Zotero 网页文献库。插件安装入口通常位于：
 
-`工具 → 插件 → 右上角齿轮 → 从文件安装插件`![alt text](image-5.png)
+`工具 → 插件 → 右上角齿轮 → 从文件安装插件`![alt text](image-3.png)
 
 ### Beaver 安装后没有出现图标
 
