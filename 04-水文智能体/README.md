@@ -18,6 +18,8 @@
 
 > 动手前需装好一个终端 AI 编程 Agent（Claude Code / Codex / opencode / DeepSeek Harness 任选其一），见 [tutorials/](tutorials/) 前置说明。
 
+练习：[使用AI Agent工具辅助水文模型率定](https://github.com/iHeadWater/ai_hydro_forecast_homework)
+
 ## 概念速查
 
 | 概念 | 一句话 |
