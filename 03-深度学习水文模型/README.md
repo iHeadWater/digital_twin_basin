@@ -18,6 +18,9 @@
 
 > 想先预习？公开数据集（如 CAMELS）与数据来源见 [data/README.md](../../data/README.md)；评价指标 NSE 的直觉可以在课后先查一查。
 
+请前往[数字孪生流域课程作业](https://github.com/iHeadWater/digital_twin_watershed_homework),找到本节对应的课程作业，并按作业说明完成练习。  
+
+
 ## 配套素材
 
 本讲公开素材（LSTM 一页纸、NSE 指标说明等）正在补充中，就绪后列在这里。教师向的教学规划归档在 [docs/ideas/](../../docs/ideas/)，学生无需阅读。
