@@ -51,3 +51,5 @@ results/
 # 实操教程(lab)运行产物:学生生成的样例数据与图片不提交
 **/outputs/
 **/data/rainflow_sample.csv
+
+.DS_Store
