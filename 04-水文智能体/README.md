@@ -16,9 +16,8 @@
 - 从 [tutorials/](tutorials/) 开始 → 完成 lab00（让 Agent 说第一句话）与 lab01（让 AI 画出第一条水文过程线）
 - lab02–04（完整分析 → 沉淀 Skill → 组合工作流）随课程推进补齐
 
-> 动手前需装好一个终端 AI 编程 Agent（Claude Code / Codex / opencode / DeepSeek Harness 任选其一），见 [tutorials/](tutorials/) 前置说明。
-
-练习：[使用AI Agent工具辅助水文模型率定](https://github.com/iHeadWater/ai_hydro_forecast_homework)
+> 动手前需装好一个终端 AI 编程 Agent（Claude Code / Codex / opencode / DeepSeek Harness 任选其一），见 [tutorials/](tutorials/) 前置说明。  
+本章节练习：[使用AI Agent工具辅助水文模型率定](https://github.com/iHeadWater/ai_hydro_forecast_homework)
 
 ## 概念速查
 
